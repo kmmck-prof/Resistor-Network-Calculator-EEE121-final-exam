@@ -1,4 +1,4 @@
-# Resistor-Network-Calculator-EEE121-final-exam
+# Resistor-Network-Calculator-EEE121-Final-Exam
 I developed this project as part of my Python Programming Data Structures and Algorithms course to analyze and simplify resistor networks represented as graphs. I used Python dictionary libraries, graph traversal, and sorting algorithm concepts from class to solve this.
 
 # Key Features:
